@@ -81,10 +81,10 @@ Bu konfigürasyon ile yapılan 30 epoch final eğitimde:
 ## Deneysel Sonuçlar
 
 ### **Bayesian Optimization Progress**
-![BO Progress](results/bo_progress.png)
+![BO Progress](CİFAR-10/results/bo_progress.png)
 
 ### **Training Dynamics (Loss & Accuracy)**
-![Training Curves](results/training_curves.png)
+![Training Curves](CİFAR-10/results/training_curves.png)
 
 ### **Hyperparameter Sensitivity (Scatter Plots)**  
 Tüm scatter grafikleri:  
@@ -92,7 +92,7 @@ Tüm scatter grafikleri:
 
 Örnek (Learning Rate vs Accuracy):
 
-![lr_vs_acc](results/bo_hyperparam_scatter/learning_rate_vs_acc.png)
+![lr_vs_acc](CİFAR-10/results/bo_hyperparam_scatter/learning_rate_vs_acc.png)
 
 ---
 
@@ -105,7 +105,7 @@ Tüm scatter grafikleri:
 
 Tüm matematiksel açıklamalar, BO teorisi, Gaussian Process formülleri, RBF kernel fonksiyonları, mimari analizler ve katman boyut hesaplamaları **teknik rapor** içerisinde sunulmuştur:
 
--->  **[docs/technical_report.pdf](docs/technical_report.pdf)**
+-->  **[docs/technical_report.pdf](CİFAR-10/docs/technical_report.pdf)**
 
 PDF içeriği:
 
