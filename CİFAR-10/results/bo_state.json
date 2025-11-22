@@ -1,0 +1,396 @@
+{
+    "results": [
+        {
+            "iter": 1,
+            "params": {
+                "learning_rate": 0.0037516557872851516,
+                "batch_size": 124,
+                "filters1": 30,
+                "filters2": 122,
+                "dropout": 0.3118764001091077,
+                "weight_decay": 0.0005972533077885406,
+                "optimizer": "sgd"
+            },
+            "vector": [
+                0.0037516557872851516,
+                124.0,
+                30.0,
+                122.0,
+                0.3118764001091077,
+                0.0005972533077885406,
+                1.0
+            ],
+            "loss": 0.2862,
+            "val_acc": 0.7138,
+            "timestamp": "2025-11-21 00:20:29",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 2,
+            "params": {
+                "learning_rate": 0.0015683852581586646,
+                "batch_size": 106,
+                "filters1": 90,
+                "filters2": 103,
+                "dropout": 0.13348344445560875,
+                "weight_decay": 0.00014372395110401885,
+                "optimizer": "adamw"
+            },
+            "vector": [
+                0.0015683852581586646,
+                106.0,
+                90.0,
+                103.0,
+                0.13348344445560875,
+                0.00014372395110401885,
+                2.0
+            ],
+            "loss": 0.2508,
+            "val_acc": 0.7492,
+            "timestamp": "2025-11-21 00:26:39",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 3,
+            "params": {
+                "learning_rate": 0.00021563909801506647,
+                "batch_size": 33,
+                "filters1": 103,
+                "filters2": 251,
+                "dropout": 0.3754210836063001,
+                "weight_decay": 1.777987075173314e-06,
+                "optimizer": "adam"
+            },
+            "vector": [
+                0.00021563909801506647,
+                33.0,
+                103.0,
+                251.0,
+                0.3754210836063001,
+                1.777987075173314e-06,
+                0.0
+            ],
+            "loss": 0.25739999999999996,
+            "val_acc": 0.7426,
+            "timestamp": "2025-11-21 00:36:53",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 4,
+            "params": {
+                "learning_rate": 0.004004611107435402,
+                "batch_size": 251,
+                "filters1": 75,
+                "filters2": 223,
+                "dropout": 0.0931085361721217,
+                "weight_decay": 9.151582809828799e-05,
+                "optimizer": "sgd"
+            },
+            "vector": [
+                0.004004611107435402,
+                251.0,
+                75.0,
+                223.0,
+                0.0931085361721217,
+                9.151582809828799e-05,
+                1.0
+            ],
+            "loss": 0.24839999999999995,
+            "val_acc": 0.7516,
+            "timestamp": "2025-11-21 00:43:28",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 5,
+            "params": {
+                "learning_rate": 0.00458776415742441,
+                "batch_size": 112,
+                "filters1": 74,
+                "filters2": 99,
+                "dropout": 0.22603412498110254,
+                "weight_decay": 0.0007718552840676292,
+                "optimizer": "sgd"
+            },
+            "vector": [
+                0.00458776415742441,
+                112.0,
+                74.0,
+                99.0,
+                0.22603412498110254,
+                0.0007718552840676292,
+                1.0
+            ],
+            "loss": 0.24119999999999997,
+            "val_acc": 0.7588,
+            "timestamp": "2025-11-21 00:49:41",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 6,
+            "params": {
+                "learning_rate": 0.0035085278809963956,
+                "batch_size": 255,
+                "filters1": 73,
+                "filters2": 224,
+                "dropout": 0.005851303551070286,
+                "weight_decay": 0.00020803505746910946,
+                "optimizer": "adam"
+            },
+            "vector": [
+                0.0035085278809963956,
+                255.0,
+                73.0,
+                224.0,
+                0.005851303551070286,
+                0.00020803505746910946,
+                0.0
+            ],
+            "loss": 0.33030000000000004,
+            "val_acc": 0.6697,
+            "timestamp": "2025-11-21 00:56:26",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 7,
+            "params": {
+                "learning_rate": 0.00950867841256515,
+                "batch_size": 236,
+                "filters1": 22,
+                "filters2": 94,
+                "dropout": 0.38145304313187584,
+                "weight_decay": 0.0003529747271982868,
+                "optimizer": "adamw"
+            },
+            "vector": [
+                0.00950867841256515,
+                236.0,
+                22.0,
+                94.0,
+                0.38145304313187584,
+                0.0003529747271982868,
+                2.0
+            ],
+            "loss": 0.6433,
+            "val_acc": 0.3567,
+            "timestamp": "2025-11-21 01:02:18",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 8,
+            "params": {
+                "learning_rate": 0.007264632943782431,
+                "batch_size": 100,
+                "filters1": 84,
+                "filters2": 96,
+                "dropout": 0.12663922416422763,
+                "weight_decay": 0.0006715503347899714,
+                "optimizer": "adamw"
+            },
+            "vector": [
+                0.007264632943782431,
+                100.0,
+                84.0,
+                96.0,
+                0.12663922416422763,
+                0.0006715503347899714,
+                2.0
+            ],
+            "loss": 0.9,
+            "val_acc": 0.1,
+            "timestamp": "2025-11-21 01:05:57",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 9,
+            "params": {
+                "learning_rate": 0.0002469264394548482,
+                "batch_size": 101,
+                "filters1": 95,
+                "filters2": 108,
+                "dropout": 0.20535225851211758,
+                "weight_decay": 0.000825495963556992,
+                "optimizer": "sgd"
+            },
+            "vector": [
+                0.0002469264394548482,
+                101.0,
+                95.0,
+                108.0,
+                0.20535225851211758,
+                0.000825495963556992,
+                1.0
+            ],
+            "loss": 0.3769,
+            "val_acc": 0.6231,
+            "timestamp": "2025-11-21 01:11:58",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 10,
+            "params": {
+                "learning_rate": 0.0049680729988299,
+                "batch_size": 251,
+                "filters1": 73,
+                "filters2": 218,
+                "dropout": 0.28826578180314494,
+                "weight_decay": 0.0005552519515156741,
+                "optimizer": "adam"
+            },
+            "vector": [
+                0.0049680729988299,
+                251.0,
+                73.0,
+                218.0,
+                0.28826578180314494,
+                0.0005552519515156741,
+                0.0
+            ],
+            "loss": 0.7007,
+            "val_acc": 0.2993,
+            "timestamp": "2025-11-21 01:18:37",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 11,
+            "params": {
+                "learning_rate": 0.005114937587810423,
+                "batch_size": 97,
+                "filters1": 91,
+                "filters2": 106,
+                "dropout": 0.06313079251991942,
+                "weight_decay": 0.0001380775971520603,
+                "optimizer": "adam"
+            },
+            "vector": [
+                0.005114937587810423,
+                97.0,
+                91.0,
+                106.0,
+                0.06313079251991942,
+                0.0001380775971520603,
+                0.0
+            ],
+            "loss": 0.3135,
+            "val_acc": 0.6865,
+            "timestamp": "2025-11-21 01:24:45",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 12,
+            "params": {
+                "learning_rate": 0.006673025600186581,
+                "batch_size": 97,
+                "filters1": 92,
+                "filters2": 106,
+                "dropout": 0.34713140086597305,
+                "weight_decay": 0.000644597159425156,
+                "optimizer": "adamw"
+            },
+            "vector": [
+                0.006673025600186581,
+                97.0,
+                92.0,
+                106.0,
+                0.34713140086597305,
+                0.000644597159425156,
+                2.0
+            ],
+            "loss": 0.359,
+            "val_acc": 0.641,
+            "timestamp": "2025-11-21 01:30:33",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 13,
+            "params": {
+                "learning_rate": 0.0004089225707634366,
+                "batch_size": 128,
+                "filters1": 40,
+                "filters2": 125,
+                "dropout": 0.09577603736015768,
+                "weight_decay": 0.00018766217043383375,
+                "optimizer": "sgd"
+            },
+            "vector": [
+                0.0004089225707634366,
+                128.0,
+                40.0,
+                125.0,
+                0.09577603736015768,
+                0.00018766217043383375,
+                1.0
+            ],
+            "loss": 0.35509999999999997,
+            "val_acc": 0.6449,
+            "timestamp": "2025-11-21 01:36:13",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 14,
+            "params": {
+                "learning_rate": 0.004800569085979834,
+                "batch_size": 118,
+                "filters1": 63,
+                "filters2": 97,
+                "dropout": 0.31233028513085365,
+                "weight_decay": 0.0006865095839058711,
+                "optimizer": "adamw"
+            },
+            "vector": [
+                0.004800569085979834,
+                118.0,
+                63.0,
+                97.0,
+                0.31233028513085365,
+                0.0006865095839058711,
+                2.0
+            ],
+            "loss": 0.9,
+            "val_acc": 0.1,
+            "timestamp": "2025-11-21 01:40:03",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        },
+        {
+            "iter": 15,
+            "params": {
+                "learning_rate": 0.005527710452868439,
+                "batch_size": 247,
+                "filters1": 80,
+                "filters2": 231,
+                "dropout": 0.3526591818299243,
+                "weight_decay": 0.0004494777825596256,
+                "optimizer": "adam"
+            },
+            "vector": [
+                0.005527710452868439,
+                247.0,
+                80.0,
+                231.0,
+                0.3526591818299243,
+                0.0004494777825596256,
+                0.0
+            ],
+            "loss": 0.9,
+            "val_acc": 0.1,
+            "timestamp": "2025-11-21 01:44:04",
+            "log_file": "./logs\\train_log.json",
+            "checkpoint": "./checkpoints\\cifar10_best_model.pth"
+        }
+    ],
+    "current_iter": 15,
+    "warmup_done": true
+}
